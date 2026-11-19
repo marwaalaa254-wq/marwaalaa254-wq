@@ -29,6 +29,6 @@ I enjoy building end-to-end projects, from checking data quality and designing S
 
 ## Certifications
 
-- [Microsoft Certified Power BI Data Analyst Associate (PL-300)](https://learn.microsoft.com/en-us/users/marwaalaaeldin-2338/credentials/certification/data-analyst-associate?tab=credentials-tab) · Earned July 13, 2026 · Expires July 14, 2027
-- Microsoft Certified Azure Data Fundamentals (DP-900) · Earned November 3, 2026
+- [Microsoft Certified Power BI Data Analyst Associate (PL-300)](https://learn.microsoft.com/en-us/users/marwaalaaeldin-2338/credentials/certification/data-analyst-associate?tab=credentials-tab)
+- Microsoft Certified Azure Data Fundamentals (DP-900)
 - Google Data Analytics Professional Certificate
