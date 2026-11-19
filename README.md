@@ -6,7 +6,7 @@ I'm an accounting graduate with a background in quality control and data verific
 
 I enjoy building end-to-end projects, from checking data quality and designing SQL databases to creating Power BI dashboards and evaluating machine learning models.
 
-[LinkedIn](https://www.linkedin.com/in/marwa-barakaai-data)
+[Portfolio](https://data-dreamhouse.lovable.app/) · [LinkedIn](https://www.linkedin.com/in/marwa-barakaai-data)
 
 ## Featured projects
 
