@@ -12,6 +12,7 @@ I enjoy building end-to-end projects, from checking data quality and designing S
 
 | Project | What it does | Stack |
 | --- | --- | --- |
+| [Flame in Freefall](https://github.com/marwaalaa254-wq/PHARAOHS-x-DIGILIANS) · [Demo](https://pharaohs-x-digilians.vercel.app) | NASA Space Apps Challenge 2026 team project exploring 1,412 microgravity combustion experiments through an interactive dashboard, an experiment explorer, and a citation-based AI assistant. | Next.js, React, Three.js, Python, Groq API |
 | [Baseera](https://github.com/marwaalaa254-wq/baseera-marketplace-analytics) · [Demo](https://reviews-tau-mocha.vercel.app) | Marketplace analytics for customer segmentation and review intelligence. My capstone work focused on extracting review aspects, classifying sentiment with a CNN2D, and explaining the phrases behind predictions. | Python, FastAPI, React, BERT, CNN2D |
 | [Sentio](https://github.com/marwaalaa254-wq/Sentio) · [Demo](https://sentio-chi.vercel.app) | Classifies text into six emotions and compares TF-IDF baselines, attention models, BiLSTM, and fine-tuned BERT. | PyTorch, Hugging Face, scikit-learn |
 | [TruthLens](https://github.com/marwaalaa254-wq/TruthLens) | Scores English news credibility and uses SHAP to show which words influence a prediction. | PyTorch, DistilBERT, CNN-LSTM, SHAP |
