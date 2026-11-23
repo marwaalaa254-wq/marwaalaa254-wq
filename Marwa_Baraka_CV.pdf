@@ -1273,7 +1273,7 @@ endobj
 endobj
 24 0 obj
 <<
-/Length 7663
+/Length 7666
 >>
 stream
 q
@@ -1418,7 +1418,7 @@ BT
 1 0 0 1 0 1.2 Tm
 /F2+0 10 Tf
 11.2 TL
-(Human Performance Classification) Tj
+(Physical Performance Classification) Tj
 T*
 ET
 Q
@@ -1812,34 +1812,6 @@ endobj
 endobj
 26 0 obj
 <<
-/Type /Annot
-/Subtype /Link
-/Rect [ 42.48 360.2 76 371 ]
-/Border [ 0 0 0 ]
-/A <<
-/S /URI
-/Type /Action
-/URI (https\072\057\057github\056com\057marwaalaa254\055wq\057PHARAOHS\055x\055DIGILIANS)
->>
-/P 23 0 R
->>
-endobj
-27 0 obj
-<<
-/Type /Annot
-/Subtype /Link
-/Rect [ 83 360.2 132 371 ]
-/Border [ 0 0 0 ]
-/A <<
-/S /URI
-/Type /Action
-/URI (https\072\057\057pharaohs\055x\055digilians\056vercel\056app)
->>
-/P 23 0 R
->>
-endobj
-28 0 obj
-<<
 /Author (Marwa Alaaeldin Baraka)
 /CreationDate (D\07220261113201613\05302\04700\047)
 /Creator (anonymous)
@@ -1852,7 +1824,7 @@ endobj
 >>
 endobj
 xref
-0 29
+0 27
 0000000000 65535 f 
 0000000015 00000 n 
 0000000083 00000 n 
@@ -1878,17 +1850,15 @@ xref
 0000097697 00000 n 
 0000098447 00000 n 
 0000098664 00000 n 
-0000106380 00000 n 
-0000106710 00000 n 
-0000106938 00000 n 
-0000107142 00000 n 
+0000106383 00000 n 
+0000106713 00000 n 
 trailer
 <<
-/Size 29
+/Size 27
 /Root 1 0 R
-/Info 28 0 R
+/Info 26 0 R
 /ID [ <8fb7b9916564a330436f10a125a2a291> <8fb7b9916564a330436f10a125a2a291> ]
 >>
 startxref
-107462
+107033
 %%EOF
